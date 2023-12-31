@@ -1,27 +1,40 @@
-<h1 align="center">Hi there, I'm Mashiur 👋 </h1>
-<h3 align="center">My passion is to work with tech and solve problems. I am 01110011 01100001 01100100 right now.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mashcodes10&label=Profile%20views&color=0e75b6&style=flat" alt="100" /> </p>
-
-- ⚡ Factos about me (Decode) **V ybir png naq 3 zber guvatf : Pngf, pbssrr, zhfvp**
-
-- 🌱 I’m currently learning **Node.js, Identifying Security Vulnerabilities in C/C++Programming**
-
-- 💬 Ask me about **Cybersecurity, Technical Writing**
-
-- 📄 Know about my experiences [Feel free to ask]
+### Hi There! My name is Mashiur.
+-----
+# :postbox: About Me
 
 
+```java
+public class Mashiur
+{
+  private int age(decode) = 10011;
+  public String[] traits(decode) = new String[] { "mqyi", "tnhj-iublc", "sgomlovv" };
+  public String[] hobbies = new String[] { "Football", "Coding", "Wrting", "Sleeping" };
+}
+```
+
+Problems? Bring 'em on! LeetCode's cool, but real-life puzzles? I crave real-life challenges I embrace the thrill of the unknown and avoid the trap of perfectionism. Following my vivid dreams, I have immersed myself in embracing technology. Although I'm uncertain about where this journey will lead me, I embrace the unknown without fear of getting lost. In my free time I love to watch youtube when I am lazy,hangout with friends when I break my social anxiety and watch football when I loose control of my life. This path may be uncertain, but with every twist and turn, I discover new facets of myself and the world around me.
+-----
+
+# Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-239120?style=for-the-badge&logo=c-plus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next](https://img.shields.io/badge/Next.js-323330?style=for-the-badge&logo=sinon)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-20232A?style=for-the-badge&logo=bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-100000?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-323330?style=for-the-badge&logo=git&logoColor=white)
 
 
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"  </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mashcodes10&" alt="mashcodes10" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mashcodes10&show_icons=true&locale=en&layout=compact" alt="mashcodes10" /></p>
-
-
-
-
+# :bar_chart: Stats
+![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mashcodes10&)
