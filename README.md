@@ -1,6 +1,5 @@
-# Hi there, I'm Mashcodes10! 👋
+# Hi there, I'm Mashiur! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and build amazing projects.
 
 ## 🚀 About Me
 
