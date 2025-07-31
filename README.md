@@ -10,8 +10,8 @@
 ## 🔗 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mashter/)
-- 📫 Email: mashiur.khan@example.com *(replace with your professional email)*
-- 🌐 Portfolio Website: *[optional]*
+- 📫 Email: mashiurrahman17675@gmail.com
+
 
 ## 📌 Featured Projects
 
