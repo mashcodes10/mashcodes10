@@ -15,6 +15,18 @@
 
 ## 📌 Featured Projects
 
+## 📂 Fall AI Studio Project
+
+🔗 [Fall AI Studio Repo](https://github.com/mashcodes10/airbnb-price-prediction)  
+📌 *Pinned at the top of my GitHub profile*  
+Includes:
+- ✅ Overview, goals, and methods
+- 📈 Visualizations and results
+- 🧪 Sample datasets
+- 📘 Jupyter notebooks & reproducibility guide
+- 💡 Individual contributions
+
+
 Here are some of my favorite and most representative projects:
 
 ### 📈 [real-time-financial-sentiment](https://github.com/mashcodes10/real-time-financial-sentiment)
@@ -34,16 +46,6 @@ Here are some of my favorite and most representative projects:
 ➡️ *[More projects on my GitHub](https://github.com/mashcodes10?tab=repositories)*  
 ✅ All project repos are public and contain clear titles and documentation.
 
-## 📂 Fall AI Studio Project
-
-🔗 [Fall AI Studio Repo](https://github.com/mashcodes10/airbnb-price-prediction)  
-📌 *Pinned at the top of my GitHub profile*  
-Includes:
-- ✅ Overview, goals, and methods
-- 📈 Visualizations and results
-- 🧪 Sample datasets
-- 📘 Jupyter notebooks & reproducibility guide
-- 💡 Individual contributions
 
 ## 🛠️ Tech Stack
 
