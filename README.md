@@ -54,9 +54,22 @@ Here are some of my favorite and most representative projects:
 **Data/AI**: Pandas, NumPy, scikit-learn, Matplotlib, LangChain, Pinecone  
 **DevOps**: GitHub Actions, CI/CD, VS Code, Jupyter
 
+### 🧑‍🤝‍🧑 Community Engagement
+
+I actively follow and engage with open-source projects that align with my work in AI/ML, backend systems, and MLOps. Some notable repositories I follow and learn from include:
+
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain): A powerful framework for building context-aware LLM applications. I use LangChain in my RAG-based chatbot projects.
+- [mlflow/mlflow](https://github.com/mlflow/mlflow): A leading platform for managing the end-to-end machine learning lifecycle. I'm exploring experiment tracking and model deployment with MLflow.
+- [iterative/dvc](https://github.com/iterative/dvc): Git-like version control for ML pipelines and data. I'm incorporating DVC in my AI Studio project to ensure reproducibility.
+- [pydantic/pydantic](https://github.com/pydantic/pydantic): A fast, type-safe data validation library used in many of my Python and FastAPI projects.
+
+These projects inspire my work and reflect the kind of engineering practices I strive to follow — reproducibility, clarity, and modular design.
+
+
 ## 📊 GitHub Activity
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashcodes10&layout=compact)
+
 
 
 ---
