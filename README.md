@@ -56,7 +56,6 @@ Includes:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashcodes10&layout=compact)
 ![GitHub Streak](https://streak-stats.demolab.com?user=mashcodes10)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mashcodes10&show_icons=true&theme=tokyonight)
 
 ---
 
