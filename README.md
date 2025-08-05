@@ -26,15 +26,15 @@ Includes:
 - 📘 Jupyter notebooks & reproducibility guide
 - 💡 Individual contributions
 
-
 Here are some of my favorite and most representative projects:
 
-### 📈 [real-time-financial-sentiment](https://github.com/mashcodes10/real-time-financial-sentiment)
-> Streamlit dashboard for live stock sentiment from Reddit, news, and SEC filings.
+### 📄 [mlt-genai-partnerbot](https://github.com/mashcodes10/mlt-genai-partner-bot)
+> A Python library to retrieve and analyze SEC EDGAR filings like 10-K and 10-Q for public companies.
 
-- 🧰 Python, Streamlit, FinBERT, yfinance, BeautifulSoup
-- 📄 Clear README with install & run instructions
-- 📑 Jupyter notebooks included for reproducibility
+- 🧰 Python, requests, EDGAR API
+- 🔍 Supports ticker-to-CIK lookup, financial metrics, and date-filtered filings
+- 💾 Optional caching, CLI/interactive mode, and robust documentation
+- ✅ Built with clean, modular design and tested endpoints
 
 ### 💬 [vandycsgpt](https://github.com/mashcodes10/vandycsgpt)
 > A CS course assistant trained on class notes and Piazza posts using RAG and GPT-4.
@@ -45,7 +45,6 @@ Here are some of my favorite and most representative projects:
 
 ➡️ *[More projects on my GitHub](https://github.com/mashcodes10?tab=repositories)*  
 ✅ All project repos are public and contain clear titles and documentation.
-
 
 ## 🛠️ Tech Stack
 
@@ -65,13 +64,6 @@ I actively follow and engage with open-source projects that align with my work i
 
 These projects inspire my work and reflect the kind of engineering practices I strive to follow — reproducibility, clarity, and modular design.
 
-
 ## 📊 GitHub Activity
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashcodes10&layout=compact)
-
-
-
----
-
-
