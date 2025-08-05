@@ -28,7 +28,7 @@ Includes:
 
 Here are some of my favorite and most representative projects:
 
-### 📄 [mlt-genai-partnerbot](https://github.com/mashcodes10/mlt-genai-partner-bot)
+### 📄 [mlt-genai-partner-bot](https://github.com/mashcodes10/mlt-genai-partner-bot)
 > A Python library to retrieve and analyze SEC EDGAR filings like 10-K and 10-Q for public companies.
 
 - 🧰 Python, requests, EDGAR API
