@@ -1,4 +1,4 @@
-<img src="https://github.com/mashcodes10/mashcodes10/blob/main/profile.gif" alt="About me">
+<img src="https://raw.githubusercontent.com/mashcodes10/mashcodes10/main/profile.gif" alt="About me">
 
 # 👋 Hi there, I'm Mashiur!
 
